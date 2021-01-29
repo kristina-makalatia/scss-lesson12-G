@@ -1,0 +1,24 @@
+{
+  "name": "scss-lesson12-g",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristina-makalatia/scss-lesson12-G.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristina-makalatia/scss-lesson12-G/issues"
+  },
+  "homepage": "https://github.com/kristina-makalatia/scss-lesson12-G#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  }
+}

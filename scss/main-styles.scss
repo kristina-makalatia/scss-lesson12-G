@@ -1,0 +1,32 @@
+.section-bg {
+    background: grey;
+    .wraper {
+        display:flex;
+        .box {
+            &:first-child {
+                width: $size01;
+                height: $size01;
+                background-color: $color01;
+                margin: $size03;
+            }
+            &:last-child {
+                width: $size01;
+                height: $size01;
+                background-color: $color02;
+            }           
+            .test {
+                color: #fff;
+                transition:all 0.5s linear 0.5s;
+                &:hover {
+                    color: black;
+                }
+            }
+        }
+    }
+    .wraper-box-2 {
+        color: red;
+    }
+}
+.section2-bg {
+
+}
